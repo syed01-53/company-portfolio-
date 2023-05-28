@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.color-37517e{
+    background-color: #37517e;
+
+}
+.color-text-37517e {
+    color: #37517e;
+}
+.client-background{
+    background-color: #F3F5FA;
+}
+.accordion-button{
+    color: #37517e!important;
+}
+.progress-bar{
+    background-color: #37517e!important;
+
+}
+.selection button:hover{
+   background-color: #37517e; 
+}
+.btn-primary {
+    color: black;
+}
+h1,h4{
+    color: #37517e;
+} 
+i {
+    color: #37517e;
+}
+
